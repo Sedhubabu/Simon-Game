@@ -26,7 +26,7 @@ You can play the game [here](https://sedhubabu.github.io/Simon-Game/).
 ---
 ## 🎥 Video Demo
 Watch the game in action:  
-![Simon Game Video](https://github.com/user-attachments/assets/b2d91155-453a-4696-bb19-93e5f454a005)
+https://github.com/user-attachments/assets/b2d91155-453a-4696-bb19-93e5f454a005
 
 
 ## ✨ Features
