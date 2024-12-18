@@ -21,8 +21,7 @@ The Simon Game is a simple yet engaging game that challenges your memory. It gen
 ---
 
 ## 🎮 Demo
-You can play the game [here](#).  
-(Add your deployment link, such as on GitHub Pages or Netlify.)
+You can play the game [here](https://sedhubabu.github.io/Simon-Game/).  
 
 ---
 
