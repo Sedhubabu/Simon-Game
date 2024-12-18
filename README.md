@@ -57,28 +57,26 @@ To run the game locally, follow these steps:
    ```bash
    git clone https://github.com/Sedhubabu/Simon-Game.git
 Navigate to the project directory:
-bash
 
 cd simon-game
 
 Open the index.html file in your browser to play the game.
+
 📸 Screenshots
 
 ![Screenshot (60)](https://github.com/user-attachments/assets/b9d5026e-4518-4a76-83f8-89b4e0e41e09)
 
+🔖 Licens
 
-
-🔖 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 🙌 Acknowledgments
+
 Inspired by the classic Simon Game by Milton Bradley.
 
 🎉 Enjoy the Game!
-If you like this project, please give it a ⭐ on GitHub!
 
-yaml
-Copy code
+If you like this project, please give it a ⭐ on GitHub!
 
 ---
 
